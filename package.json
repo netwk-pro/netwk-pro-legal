@@ -1,8 +1,8 @@
 {
   "name": "@networkpro/legal",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
-  "description": "Legal Document Repository — Network Pro",
+  "description": "Legal Document Portal — Network Pro",
   "keywords": [
     "networking",
     "security",

@@ -177,27 +177,18 @@ For any inquiries not covered in this notice, or to request permission to use co
 ## 5. Creative Commons Attribution 4.0 International
 
 <sup>Formats:
-[Markdown](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/assets/license/CC-BY-4.0.md) | [Text](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/assets/license/CC-BY-4.0.txt) | [RDFa](https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/assets/license/CC-BY-4.0-rdfa.xml) | [XMP](https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/assets/license/CC-BY-4.0.xml)</sup>
+[Markdown](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0.md) | [Text](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/CC-BY-4.0.txt) | [RDFa](https://raw.githubusercontent.com/netwk-pro/netwk-pro-legal/refs/heads/master/assets/license/CC-BY-4.0-rdfa.xml) | [XMP](https://raw.githubusercontent.com/netwk-pro/netwk-pro-legal/refs/heads/master/assets/license/CC-BY-4.0.xml)</sup>
 
 Network Pro Strategies (the "Licensed Material") is licensed under **Creative
 Commons Attribution 4.0 International** ("CC BY 4.0")
 [<img decoding="async" loading="lazy" style="display: inline-block; height: 18px !important; margin-left: 3px; vertical-align: text-bottom; text-decoration: none;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" />](https://creativecommons.org/licenses/by/4.0/)
 [<img decoding="async" loading="lazy" style="display: inline-block; height: 18px !important; margin-left: 3px; vertical-align: text-bottom; text-decoration: none;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" />](https://creativecommons.org/licenses/by/4.0/).
 
-Per the terms of the License, you are free to distribute, remix, adapt, and
-build upon the Licensed Material for any purpose, even commercially. You must
-give appropriate credit, provide a link to the License, and indicate if changes
-were made.
+Per the terms of the License, you are free to distribute, remix, adapt, and build upon the Licensed Material for any purpose, even commercially. You must give appropriate credit, provide a link to the License, and indicate if changes were made.
 
-The Licensor offers the Licensed Material as-is and as-available, and makes no
-representations or warranties of any kind concerning the Licensed Material,
-whether express, implied, statutory, or other. This includes, without
-limitation, warranties of title, merchantability, fitness for a particular
-purpose, non-infringement, absence of latent or other defects, accuracy, or the
-presence or absence of errors, whether or not known or discoverable.
+The Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable.
 
-Permissions beyond the scope of this License—or instead of those permitted by
-this License—may be available as further defined within this document.
+Permissions beyond the scope of this License—or instead of those permitted by this License—may be available as further defined within this document.
 
 <code style="background: none; border: none; border-radius: 0; height: 50vh; outline: none; resize: none; width: 100%;">
 
@@ -215,16 +206,11 @@ this License—may be available as further defined within this document.
 ## 6. GNU General Public License
 
 <sup>Formats:
-[Markdown](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/assets/license/COPYING.md) | [Text](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/assets/license/COPYING.txt) | [RDFa](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/assets/license/COPYING-rdfa.xml) | [ODT](https://github.com/netwk-pro/netwk-pro.github.io/raw/refs/heads/master/assets/license/COPYING.odt)</sup>
+[Markdown](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/COPYING.md) | [Text](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/COPYING.txt) | [RDFa](https://github.com/netwk-pro/netwk-pro-legal/blob/master/assets/license/COPYING-rdfa.xml) | [ODT](https://github.com/netwk-pro/netwk-pro-legal/raw/refs/heads/master/assets/license/COPYING.odt)</sup>
 
-Network Pro Strategies (Network Pro&trade;) is free software: you can redistribute it
-and/or modify it under the terms of the **GNU General Public License** ("GNU
-GPL") as published by the [Free Software Foundation](https://www.fsf.org/),
-either version 3 of the License, or (at your option) any later version.
+Network Pro Strategies (Network Pro&trade;) is free software: you can redistribute it and/or modify it under the terms of the **GNU General Public License** ("GNU GPL") as published by the [Free Software Foundation](https://www.fsf.org/), either version 3 of the License, or (at your option) any later version.
 
-This material is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE. See the GNU General Public License for more details.
+This material is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with
 this material. If not, see
@@ -285,8 +271,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <div style="font-size: 12px; font-weight: bold; text-align: center;">
 
-[Home](https://netwk.pro) &nbsp; | &nbsp; [Terms of Use](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/legal/TERMS.md)  
-[Privacy Policy](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/legal/PRIVACY.md) &nbsp; | &nbsp; Legal
+[Home](https://netwk.pro) &nbsp; | &nbsp; [Terms of Use](https://github.com/netwk-pro/netwk-pro-legal/blob/master/TERMS.md)  
+[Privacy Policy](https://github.com/netwk-pro/netwk-pro-legal/blob/master/PRIVACY.md) &nbsp; | &nbsp; Legal
 
 </div>
 
