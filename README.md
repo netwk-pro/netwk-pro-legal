@@ -44,9 +44,15 @@ Web: <https://bio.neteng.pro>
 
 [SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/): `CC-BY-4.0 OR GPL-3.0-or-later`
 
-# netwk-pro-legal
+# Legal Document Portal
+
+### Network Pro Strategies
+
+&nbsp;
 
 Repository of legal documents for Network Pro Strategies (Network Pro&trade;).
+
+**Available online at [legal.netwk.pro](https://legal.netwk.pro).**
 
 ---
 
