@@ -4,7 +4,7 @@
 # www.robotstxt.org/
 
 User-agent: *
-Disallow: *.jasonc$
+Disallow: *.jsonc$
 Disallow: *.json$
 Disallow: *.mjs$
 Disallow: *.cjs

@@ -46,7 +46,11 @@ Web: <https://bio.neteng.pro>
 
 # Legal Document Portal
 
+<!-- markdownlint-disable MD001 -->
+
 ### Network Pro Strategies
+
+<!-- markdownlint-enable MD001 -->
 
 &nbsp;
 
