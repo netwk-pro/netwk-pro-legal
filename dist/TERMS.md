@@ -47,7 +47,7 @@ Web: <https://bio.neteng.pro>
 
 <a name="top"></a>
 
-# Terms of Use
+# Website Terms of Use
 
 **Network Pro Strategies**  
 **Effective Date:** 3/29/2025
