@@ -1,5 +1,6 @@
-// webpack.config.prod.mjs
 /* =========================================================================
+webpack.config.prod.mjs
+
 SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 This file is part of Network Pro.
 ========================================================================= */
@@ -91,12 +92,13 @@ export default merge(common, {
         { from: "favicon-180.png", to: "favicon-180.png" },
         { from: "favicon-192.png", to: "favicon-192.png" },
         { from: "favicon-512.png", to: "favicon-512.png" },
+        { from: "legal.html", to: "legal.html" },
         { from: "terms.html", to: "terms.html" },
         { from: "404.html", to: "404.html" },
         { from: "LICENSE.md", to: "LICENSE.md" },
-        { from: "README.md", to: "README.md" },
-        { from: "PRIVACY.md", to: "PRIVACY.md" },
         { from: "TERMS.md", to: "TERMS.md" },
+        { from: "PRIVACY.md", to: "PRIVACY.md" },
+        { from: "README.md", to: "README.md" },
         { from: "CNAME", to: "." },
       ],
     }),
