@@ -19,6 +19,37 @@ footer .container,header .container{
   max-width:1200px;
   padding:20px 12px;
 }
+.gh{
+  border-collapse:collapse;
+  border-spacing:0;
+  margin:0 auto;
+}
+
+.gh td,.gh th{
+  border-collapse:collapse;
+  font-family:Arial,Helvetica,sans-serif;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+}
+
+.gh .gh-tcell{
+  text-align:center;
+  vertical-align:middle;
+}
+
+@media screen and (width <= 767px){
+
+  .gh,.gh col{
+    width:auto !important;
+  }
+
+  .gh-wrap{
+    margin:auto 0;
+    -webkit-overflow-scrolling:touch;
+    overflow-x:auto;
+  }
+}
 .soc{
   border-collapse:collapse;
   border-spacing:0;
@@ -67,9 +98,15 @@ footer .container,header .container{
 }
 
 .index2{
-  font-size:1.375em;
+  font-size:1.5em;
   font-variant:small-caps;
+  letter-spacing:-.035em;
   line-height:1.75em;
+}
+
+.join{
+  font-weight:700;
+  text-align:center;
 }
 
 .bquote{

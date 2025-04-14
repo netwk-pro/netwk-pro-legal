@@ -50,119 +50,116 @@ Web: <https://bio.neteng.pro>
 # Website Terms of Use
 
 **Network Pro Strategies**  
-**Effective Date:** 3/29/2025
+**Effective Date:** April 14, 2025
 
 &nbsp;
 
-## Contents
+<!-- markdownlint-disable MD001 -->
 
-1. [Introduction](#intro)
-2. [Platforms Covered](#platforms)
-3. [Disclaimer of Warranties](#disclaim)
-4. [Assumption of Risk](#risk)
-5. [Limitation of Liability](#limit)
-6. [Indemnification](#indemnify)
-7. [Governing Law and Jurisdiction](#law)
-8. [Acceptance of Terms](#terms)
-9. [Changes to This Policy](#changes)
+### Table of Contents
 
-> _These Terms of Use specifically govern the use of services and platforms made available via this website and its associated web properties. For provisions governing our consulting and implementation services, please refer to the applicable [Terms and Conditions](https://netwk.pro/terms.html)._
+<!-- markdownlint-enable MD001 -->
+
+1. [Introduction](#1-introduction)
+2. [Platforms Covered](#2-platforms-covered)
+3. [Acceptable Use](#3-acceptable-use)
+4. [Disclaimer of Warranties](#4-disclaimer-of-warranties)
+5. [Assumption of Risk](#5-assumption-of-risk)
+6. [Limitation of Liability](#6-limitation-of-liability)
+7. [Indemnification](#7-indemnification)
+8. [Governing Law and Jurisdiction](#8-governing-law-and-jurisdiction)
+9. [Acceptance of Terms](#9-acceptance-of-terms)
+10. [Changes to This Policy](#10-changes-to-this-policy)
 
 ---
 
-<a name="intro"></a>
+<a name="#1-introduction"></a>
 
 ## 1. Introduction
 
 Welcome! By accessing or using any of the platforms operated by Network Pro Strategies ("Company," "we," "us," or "our"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, please refrain from using our services.
 
-> 📌 Note: This is not an exhaustive list of platforms to which these Terms
-> apply. Additional platforms not explicitly mentioned may still be subject to
-> these Terms.
-
-<sub>[Top](#top)</sub>
-
-<a name="platforms"></a>
+<a name="#2-platforms-covered"></a>
 
 ## 2. Platforms Covered
 
-These Terms of Use apply to all platforms associated with the Company, including but not limited to:
-
-- **GitHub**
-
-- **Website (hosted via GitHub Pages)**
-
-- **Communication platforms such as Discord, Slack, Microsoft Teams, and other instant messaging services**
-
-- **Stack Overflow Teams**
-
-- **Nextcloud**
-
-- **Social media accounts (e.g., Facebook, Instagram, X, and similar platforms)**
+These Terms of Use apply to all platforms associated with the Company, including but not limited to: GitHub, our main website (hosted via GitHub Pages), communications on Discord, Slack, Microsoft Teams, Stack Overflow Teams, Nextcloud, and our social media presence (e.g., Facebook, Instagram, X, and similar platforms).
 
 <sub>[Top](#top)</sub>
 
-<a name="disclaim"></a>
+<a name="#3-acceptable-use"></a>
 
-## 3. Disclaimer of Warranties
+## 3. Acceptable Use
 
-Our platforms and services are provided "as is" and "as available," without any express or implied warranties. We make no guarantees regarding their accuracy, reliability, availability, or security.
+You agree not to use our platforms or services to engage in conduct that is unlawful, abusive, threatening, harassing, defamatory, deceptive, or otherwise objectionable. Prohibited activities include but are not limited to:
 
-**_This disclaimer does not apply to our consulting and implementation services, nor any payment portals or associated services._**
-
-<sub>[Top](#top)</sub>
-
-<a name="risk"></a>
-
-## 4. Assumption of Risk
-
-Your use of our platforms is at your own risk. We do not guarantee the security, integrity, or reliability of data stored on external or third-party infrastructure.
-
-**_This disclaimer does not apply to our consulting and implementation services, nor any payment portals or associated services._**
+- Unauthorized access or tampering with systems
+- Impersonation or misrepresentation
+- Uploading malicious code or spam
+- Violating third-party rights or laws
+- Interfering with platform functionality or availability
 
 <sub>[Top](#top)</sub>
 
-<a name="limit"></a>
+<a name="#4-disclaimer-of-warranties"></a>
 
-## 5. Limitation of Liability
+## 4. Disclaimer of Warranties
+
+Our platforms and services are provided "as is" and "as available," without any express or implied warranties. We make no guarantees regarding their accuracy, reliability, availability, or security. This disclaimer does not apply to our consulting and implementation services, nor any payment portals or associated services.
+
+<sub>[Top](#top)</sub>
+
+<a name="#5-assumption-of-risk"></a>
+
+## 5. Assumption of Risk
+
+Your use of our platforms is at your own risk. We do not guarantee the security, integrity, or reliability of data stored on external or third-party infrastructure. This disclaimer does not apply to our consulting and implementation services, nor any payment portals or associated services.
+
+<sub>[Top](#top)</sub>
+
+<a name="#6-limitation-of-liability"></a>
+
+## 6. Limitation of Liability
 
 To the fullest extent permitted by law, the Company, its affiliates, owners, operators, and contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages, including but not limited to data loss, loss of profits, or damages arising from reliance on or use of our platforms.
 
 <sub>[Top](#top)</sub>
 
-<a name="indemnify"></a>
+<a name="#7-indemnification"></a>
 
-## 6. Indemnification
+## 7. Indemnification
 
-By using our platforms, you agree to indemnify, defend, and hold
-harmless the Company, its affiliates, owners, operators, and contributors from any claims, damages, liabilities, losses, or expenses (including legal fees) arising from or related to your use of our services.
-
-<sub>[Top](#top)</sub>
-
-<a name="law"></a>
-
-## 7. Governing Law and Jurisdiction
-
-Network Pro Strategies is an unincorporated business based in Maricopa County, Arizona. Any legal action or dispute arising from these Terms of Use shall be subject to the exclusive jurisdiction of the state and federal courts located in Maricopa County, Arizona, including the U.S. District Court for the District of Arizona. These Terms of Use shall be governed by and construed in accordance with the **[Arizona Revised Statutes](https://www.azleg.gov/arstitle/) (A.R.S.)** and applicable provisions of the **[United States Code](https://uscode.house.gov/) (U.S.C.)**.
+You agree to indemnify, defend, and hold harmless the Company, its affiliates, owners, operators, and contributors from any claims, damages, liabilities, losses, or expenses (including legal fees) arising from or related to your use of our services.
 
 <sub>[Top](#top)</sub>
 
-<a name="terms"></a>
+<a name="#8-governing-law-and-jurisdiction"></a>
 
-## 8. Acceptance of Terms
+## 8. Governing Law and Jurisdiction
 
-By accessing or using any of our platforms, whether specifically listed in this document or not, you acknowledge and agree to these Terms of Use. **Continued use of our services constitutes ongoing acceptance of
-these Terms.**
+Network Pro Strategies is based in Maricopa County, Arizona. Any legal action or dispute arising from these Terms of Use shall be subject to the exclusive jurisdiction of the state and federal courts located in Maricopa County, Arizona. These Terms shall be governed by the Arizona Revised Statutes and applicable provisions of the United States Code.
+
+<sub>[Top](#top)</sub>
+
+<a name="#9-acceptance-of-terms"></a>
+
+## 9. Acceptance of Terms
+
+By accessing or using our platforms, you acknowledge and agree to these Terms of Use. Continued use of our services constitutes ongoing acceptance of these Terms.
 
 <sub>[Top](#top)</sub>
 
-<a name="changes"></a>
+<a name="#10-changes-to-this-policy"></a>
 
-## 9. Changes to This Policy
+## 10. Changes to This Policy
 
-We may update these Terms of Use periodically. Changes will be posted on this page with an updated effective date. Updates will comply with applicable changes to the **Arizona Revised Statutes** and **United States Code**.
+We may update these Terms of Use periodically. Updates will be posted on this page with an updated effective date and will reflect any relevant changes in applicable law.
 
 <sub>[Top](#top)</sub>
+
+&nbsp;
+
+> **Note:** For more details regarding our privacy practices, refer to our [Privacy Policy](PRIVACY.md). For licensing terms and content usage rights, please visit our [Legal, Copyright, and Licensing](LICENSE.md) page.
 
 ---
 
@@ -180,7 +177,7 @@ We may update these Terms of Use periodically. Changes will be posted on this pa
 Copyright &copy; 2025  
 **[Network Pro Strategies](https://netwk.pro/)** (Network Pro&trade;)
 
-Network Pro&trade;, the shield logo, and the "Locking Down Networks" slogan are trademarks of Network Pro Strategies.
+Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are [trademarks](https://netwk.pro/legal.html#trademark) of Network Pro Strategies.
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 

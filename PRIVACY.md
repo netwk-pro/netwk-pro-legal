@@ -44,16 +44,20 @@ Web: <https://bio.neteng.pro>
 [SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`
 
-<a id="top"></a>
+<a name="top"></a>
 
 # Privacy Policy
 
 **Network Pro Strategies**  
-**Effective Date:** 3/29/2025
+**Effective Date:** April 14, 2025
 
 &nbsp;
 
-## Contents
+<!-- markdownlint-disable MD001 -->
+
+### Table of Contents
+
+<!-- markdownlint-enable MD001 -->
 
 1. [Introduction](#intro)
 2. [Information We Collect](#collect)
@@ -66,7 +70,7 @@ Web: <https://bio.neteng.pro>
 8. [Third-Party Links](#links)
 9. [Disclaimers](#disclaim)
 10. [Changes to This Policy](#changes)
-11. [More Information](#more)
+11. [Contact](#contact)
 
 ---
 
@@ -76,7 +80,7 @@ Web: <https://bio.neteng.pro>
 
 Network Pro Strategies ("Company," "we," "us," or "our") is committed to protecting the privacy of our clients and website visitors. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or engage our security and privacy consulting services.
 
-This policy complies with applicable laws and regulations in Maricopa County, Arizona, including the **[Arizona Revised Statutes](https://www.azleg.gov/arstitle/) (A.R.S.)** and relevant federal laws under the **[United States Code](https://uscode.house.gov/) (U.S.C.)** as interpreted by the United States District Court for the District of Arizona.
+This policy complies with applicable laws and regulations in Maricopa County, Arizona, including the **[Arizona Revised Statutes](https://www.azleg.gov/arstitle/) (A.R.S.)** and relevant federal laws under the **[United States Code](https://uscode.house.gov/) (U.S.C.)**.
 
 <sub>[Back to top](#top)</sub>
 
@@ -90,6 +94,8 @@ We may collect and process the following types of information:
 - **Business Information**: Company name, job title, and industry.
 - **Technical Data**: IP address, browser type, device information, and analytics data.
 - **Client Data**: Information provided in connection with our consulting services.
+
+<sub>[Back to top](#top)</sub>
 
 <a name="cc"></a>
 
@@ -122,7 +128,7 @@ We use the information we collect to:
 - Provide, operate, and improve our services.
 - Communicate with you regarding inquiries, contracts, and service updates.
 - Process payment information for services rendered.
-- Ensure security and compliance with legal obligations under **A.R.S. Title 18, § 18-551 and § 18-552** (Arizona Data Breach Notification Law).
+- Ensure security and compliance with legal obligations under **Title 18 of the A.R.S., § 18-551 and § 18-552**.
 - Improve website functionality and user experience.
 - Conduct analytics and business development.
 
@@ -142,7 +148,7 @@ We do not sell or rent personal information. However, we may share your data in 
 
 - **With Service Providers**: We may share information with trusted third-party vendors who assist in our business operations, such as payment processing, analytics, and customer support.
 
-- **Legal Compliance**: We may disclose information if required by law, subpoena, or government request, including to comply with **A.R.S. Title 13** and applicable provisions of **Title 18 of the U.S.C.**.
+- **Legal Compliance**: We may disclose information if required by law, subpoena, or government request, including to comply with applicable provisions of **Title 13 of the A.R.S.** and **Title 18 of the U.S.C.**.
 
 - **Business Transfers**: If our company undergoes a merger, acquisition, or sale of assets, we will make every reasonable effort to prevent the sharing of personal information. If a transfer of data is unavoidable, we will take all necessary steps to ensure continued protection and compliance with our privacy commitments.
 
@@ -210,16 +216,14 @@ We may update this Privacy Policy periodically. Changes will be posted on this p
 
 <sub>[Back to top](#top)</sub>
 
-<a name="more"></a>
+<a name="contact"></a>
 
-## 11. More Information
-
-For more information about protecting your privacy, you may wish to visit <https://www.privacyalliance.org/>.
+## 11. Contact
 
 For any questions or concerns regarding this Privacy Policy, please contact us at:
 
 Network Pro Strategies  
-`support (at) neteng.pro`  
+📧 `support (at) neteng.pro`  
 (623) 252-4350
 
 <sub>[Back to top](#top)</sub>
@@ -240,7 +244,7 @@ Privacy Policy &nbsp; | &nbsp; [Legal](https://netwk.pro/legal.html)
 Copyright &copy; 2025  
 **[Network Pro Strategies](https://netwk.pro/)** (Network Pro&trade;)
 
-Network Pro&trade;, the shield logo, and the "Locking Down Networks" slogan are trademarks of Network Pro Strategies.
+Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are [trademarks](https://netwk.pro/legal.html#trademark) of Network Pro Strategies.
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 

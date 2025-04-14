@@ -1,4 +1,6 @@
 <!-- =========================================================================
+CODE_OF_CONDUCT.md
+
 SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 This file is part of Network Pro.
 ========================================================================== -->
@@ -178,19 +180,19 @@ For answers to common questions about this code of conduct, see the FAQ at
 <div style="font-size: 12px; font-weight: bold; text-align: center;">
 
 [Home](https://netwk.pro) &nbsp; | &nbsp; [Terms of Use](https://github.com/netwk-pro/netwk-pro-legal/blob/master/TERMS.md)  
-[Privacy Policy](https://github.com/netwk-pro/netwk-pro-legal/blob/master/PRIVACY.md) &nbsp; | &nbsp; [Legal](http://netwk.pro/legal.html)
+[Privacy Policy](https://github.com/netwk-pro/netwk-pro-legal/blob/master/PRIVACY.md) &nbsp; | &nbsp; [Legal](https://netwk.pro/legal.html)
 
 </div>
 
 &nbsp;
 
-<div style="font-size: 12px; text-align: center;">
+<span style="font-size: 12px; text-align: center;">
 
 Copyright &copy; 2025  
 **[Network Pro Strategies](https://netwk.pro/)** (Network Pro&trade;)
 
-Network Pro&trade;, the shield logo, and the "Locking Down Networks" slogan are trademarks of Network Pro Strategies.
+Network Pro&trade;, the shield logo, and the "Locking Down Netwspan&trade;" slogan are [trademarks](https://netwk.pro/legal.html#trademark) of Network Pro Strategies.
 
 Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-</div>
+</span>
