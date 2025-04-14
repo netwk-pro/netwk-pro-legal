@@ -78,6 +78,8 @@ Web: <https://bio.neteng.pro>
 
 ---
 
+<sup>**Formats Available:** [HTML](legal.html) | Markdown</sup>
+
 <a name="ownership"></a>
 
 ## 1. Copyright
