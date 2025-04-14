@@ -159,7 +159,7 @@ We may update these Terms of Use periodically. Updates will be posted on this pa
 
 &nbsp;
 
-> **Note:** For more details regarding our privacy practices, refer to our [Privacy Policy](PRIVACY.md). For licensing terms and content usage rights, please visit our [Legal, Copyright, and Licensing](LICENSE.md) page.
+> **Note:** For more details regarding our privacy practices, refer to our [Privacy Policy](PRIVACY.md). For licensing terms and content usage rights, please visit our [Legal, Copyright, and Licensing](https://netwk.pro/legal.html) page.
 
 ---
 
