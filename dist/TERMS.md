@@ -85,7 +85,7 @@ Welcome! By accessing or using any of the platforms operated by Network Pro Stra
 
 These Terms of Use apply to all platforms associated with the Company, including but not limited to: GitHub, our main website (hosted via GitHub Pages), communications on Discord, Slack, Microsoft Teams, Stack Overflow Teams, Nextcloud, and our social media presence (e.g., Facebook, Instagram, X, and similar platforms).
 
-<sub>[Top](#top)</sub>
+<sub>[Back to top](#top)</sub>
 
 <a name="#3-acceptable-use"></a>
 
@@ -99,7 +99,7 @@ You agree not to use our platforms or services to engage in conduct that is unla
 - Violating third-party rights or laws
 - Interfering with platform functionality or availability
 
-<sub>[Top](#top)</sub>
+<sub>[Back to top](#top)</sub>
 
 <a name="#4-disclaimer-of-warranties"></a>
 
@@ -107,7 +107,7 @@ You agree not to use our platforms or services to engage in conduct that is unla
 
 Our platforms and services are provided "as is" and "as available," without any express or implied warranties. We make no guarantees regarding their accuracy, reliability, availability, or security. This disclaimer does not apply to our consulting and implementation services, nor any payment portals or associated services.
 
-<sub>[Top](#top)</sub>
+<sub>[Back to top](#top)</sub>
 
 <a name="#5-assumption-of-risk"></a>
 
@@ -115,7 +115,7 @@ Our platforms and services are provided "as is" and "as available," without any 
 
 Your use of our platforms is at your own risk. We do not guarantee the security, integrity, or reliability of data stored on external or third-party infrastructure. This disclaimer does not apply to our consulting and implementation services, nor any payment portals or associated services.
 
-<sub>[Top](#top)</sub>
+<sub>[Back to top](#top)</sub>
 
 <a name="#6-limitation-of-liability"></a>
 
@@ -123,7 +123,7 @@ Your use of our platforms is at your own risk. We do not guarantee the security,
 
 To the fullest extent permitted by law, the Company, its affiliates, owners, operators, and contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages, including but not limited to data loss, loss of profits, or damages arising from reliance on or use of our platforms.
 
-<sub>[Top](#top)</sub>
+<sub>[Back to top](#top)</sub>
 
 <a name="#7-indemnification"></a>
 
@@ -131,7 +131,7 @@ To the fullest extent permitted by law, the Company, its affiliates, owners, ope
 
 You agree to indemnify, defend, and hold harmless the Company, its affiliates, owners, operators, and contributors from any claims, damages, liabilities, losses, or expenses (including legal fees) arising from or related to your use of our services.
 
-<sub>[Top](#top)</sub>
+<sub>[Back to top](#top)</sub>
 
 <a name="#8-governing-law-and-jurisdiction"></a>
 
@@ -139,7 +139,7 @@ You agree to indemnify, defend, and hold harmless the Company, its affiliates, o
 
 Network Pro Strategies is based in Maricopa County, Arizona. Any legal action or dispute arising from these Terms of Use shall be subject to the exclusive jurisdiction of the state and federal courts located in Maricopa County, Arizona. These Terms shall be governed by the Arizona Revised Statutes and applicable provisions of the United States Code.
 
-<sub>[Top](#top)</sub>
+<sub>[Back to top](#top)</sub>
 
 <a name="#9-acceptance-of-terms"></a>
 
@@ -147,7 +147,7 @@ Network Pro Strategies is based in Maricopa County, Arizona. Any legal action or
 
 By accessing or using our platforms, you acknowledge and agree to these Terms of Use. Continued use of our services constitutes ongoing acceptance of these Terms.
 
-<sub>[Top](#top)</sub>
+<sub>[Back to top](#top)</sub>
 
 <a name="#10-changes-to-this-policy"></a>
 
@@ -155,7 +155,7 @@ By accessing or using our platforms, you acknowledge and agree to these Terms of
 
 We may update these Terms of Use periodically. Updates will be posted on this page with an updated effective date and will reflect any relevant changes in applicable law.
 
-<sub>[Top](#top)</sub>
+<sub>[Back to top](#top)</sub>
 
 &nbsp;
 
