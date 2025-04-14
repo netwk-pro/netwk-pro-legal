@@ -83,7 +83,7 @@ Welcome! By accessing or using any of the platforms operated by Network Pro Stra
 
 ## 2. Platforms Covered
 
-These Terms of Use apply to all platforms associated with the Company, including but not limited to: GitHub, our main website (hosted via GitHub Pages), communications on Discord, Slack, Microsoft Teams, Stack Overflow Teams, Nextcloud, and our social media presence (e.g., Facebook, Instagram, X, and similar platforms).
+These Terms of Use apply to all platforms associated with the Company, including but not limited to: GitHub, our main website (hosted via GitHub Pages), communications on Discord, Slack, Stack Overflow Teams, Nextcloud, and our social media presence (e.g., Facebook, Instagram, X, and similar platforms).
 
 <sub>[Back to top](#top)</sub>
 

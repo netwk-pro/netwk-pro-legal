@@ -61,15 +61,14 @@ Web: <https://bio.neteng.pro>
 
 1. [Introduction](#intro)
 2. [Information We Collect](#collect)
-   - [Credit Card Information](#cc)
-3. [New Technology](#newtech)
-4. [How We Use Your Information](#use)
-5. [Sharing and Disclosure](#sharing)
+3. [Payment Information](#payment)
+4. [Use of Information](#use)
+5. [Data Sharing](#sharing)
 6. [Data Security](#security)
-7. [Your Rights and Choices](#rights)
-8. [Third-Party Links](#links)
-9. [Disclaimers](#disclaim)
-10. [Changes to This Policy](#changes)
+7. [User Rights](#rights)
+8. [Third-Party Links](#third-party)
+9. [Disclaimers and Limitations](#disclaimers)
+10. [Policy Changes](#changes)
 11. [Contact](#contact)
 
 ---
@@ -78,79 +77,51 @@ Web: <https://bio.neteng.pro>
 
 ## 1. Introduction
 
-Network Pro Strategies ("Company," "we," "us," or "our") is committed to protecting the privacy of our clients and website visitors. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or engage our security and privacy consulting services.
-
-This policy complies with applicable laws and regulations in Maricopa County, Arizona, including the **[Arizona Revised Statutes](https://www.azleg.gov/arstitle/) (A.R.S.)** and relevant federal laws under the **[United States Code](https://uscode.house.gov/) (U.S.C.)**.
-
-<sub>[Back to top](#top)</sub>
+Network Pro Strategies ("Company," "we," "us," or "our") is committed to protecting the privacy of clients and website visitors. This Privacy Policy outlines how we collect, use, and safeguard your information when you interact with our website or services, consistent with applicable U.S. federal law and Arizona law, including Title 18, Chapter 5, Article 4 of the **[Arizona Revised Statutes](https://www.azleg.gov/arstitle/) (A.R.S. §§ 18-551, 18-552)**.
 
 <a name="collect"></a>
 
 ## 2. Information We Collect
 
-We may collect and process the following types of information:
+We may collect the following categories of information:
 
-- **Personal Information**: Name, email address, phone number, and other contact details.
-- **Business Information**: Company name, job title, and industry.
-- **Technical Data**: IP address, browser type, device information, and analytics data.
-- **Client Data**: Information provided in connection with our consulting services.
-
-<sub>[Back to top](#top)</sub>
-
-<a name="cc"></a>
-
-### **Credit Card Information**
-
-In certain cases, we may collect credit card details, including expiration dates, when processing invoices.
-
-All submitted credit card information is encrypted and protected using TLS encryption. We use this information solely to process and complete transactions, sharing it with third parties only as necessary for payment processing.
-
-Once a payment is completed and funds are verified, all payment data is securely disposed of within **90 days**.
+- **Personal Identifiers** (e.g., name, email, phone number)
+- **Business and Professional Information**
+- **Device/Technical Information** (e.g., IP address, browser type, access logs)
+- **Client-Submitted Content** related to our services
 
 <sub>[Back to top](#top)</sub>
 
-<a name="newtech"></a>
+<a name="payment"></a>
 
-## 3. New Technology
+## 3. Payment Information
 
-Technology on the internet is constantly evolving, and so is our use of new technology. We encourage users to review this privacy policy periodically for updates on how we implement and utilize emerging technologies.
-
-By using any of our websites or platforms, you acknowledge and accept our Privacy Policy.
+When processing payments, we may collect credit card details and billing contact information. All credit card data is encrypted via TLS and shared only with PCI-compliant processors. **Data is purged within 90 days post-verification of payment.**
 
 <sub>[Back to top](#top)</sub>
 
 <a name="use"></a>
 
-## 4. How We Use Your Information
+## 4. Use of Information
 
-We use the information we collect to:
+Information is used to:
 
-- Provide, operate, and improve our services.
-- Communicate with you regarding inquiries, contracts, and service updates.
-- Process payment information for services rendered.
-- Ensure security and compliance with legal obligations under **Title 18 of the A.R.S., § 18-551 and § 18-552**.
-- Improve website functionality and user experience.
-- Conduct analytics and business development.
+- **Provide and improve services**
+- **Respond to inquiries and fulfill contracts**
+- **Conduct analytics and enhance user experience**
+- **Ensure legal and regulatory compliance**
 
 <sub>[Back to top](#top)</sub>
 
 <a name="sharing"></a>
 
-## 5. Sharing and Disclosure
+## 5. Data Sharing
 
-<!-- markdownlint-disable MD036 -->
+We do not sell personal information. However, we may share personal and business information under the following circumstances:
 
-**Data Sharing Policy**
-
-<!-- markdownlint-enable MD036 -->
-
-We do not sell or rent personal information. However, we may share your data in the following circumstances:
-
-- **With Service Providers**: We may share information with trusted third-party vendors who assist in our business operations, such as payment processing, analytics, and customer support.
-
-- **Legal Compliance**: We may disclose information if required by law, subpoena, or government request, including to comply with applicable provisions of **Title 13 of the A.R.S.** and **Title 18 of the U.S.C.**.
-
-- **Business Transfers**: If our company undergoes a merger, acquisition, or sale of assets, we will make every reasonable effort to prevent the sharing of personal information. If a transfer of data is unavoidable, we will take all necessary steps to ensure continued protection and compliance with our privacy commitments.
+- **With Service Providers:** We may share information with trusted third-party vendors—under binding agreements—who support our business operations. These include, but are not limited to, services such as payment processing, analytics, hosting, and customer support. These providers are authorized to use your information only as necessary to perform their contractual obligations.
+- **Legal Compliance:** We may disclose information if required to do so by applicable law, regulation, legal process, or enforceable governmental request, including subpoenas or court orders.
+- **Business Transfers:** In connection with a merger, acquisition, asset sale, or similar corporate transaction, we may disclose or transfer personal information, provided that reasonable steps are taken to ensure continued confidentiality and compliance with applicable privacy laws.
 
 <sub>[Back to top](#top)</sub>
 
@@ -164,55 +135,45 @@ We implement industry-standard security measures to protect your data. However, 
 
 <a name="rights"></a>
 
-## 7. Your Rights and Choices
+## 7. User Rights
 
 <!-- markdownlint-disable MD036 -->
 
-**Your Data Rights**
+**Your Rights and Choices**
 
 <!-- markdownlint-enable MD036 -->
 
-Under applicable state and federal law, you may have the following rights regarding your personal data:
+Under applicable state and federal law, you may have rights to:
 
 - **Access, update, or delete** your personal information, subject to legal and contractual limitations.
-- **Opt out of marketing communications** at any time.
-- **Restrict or object to data processing** under certain conditions, as permitted by law.
+- **Restrict or object to processing** under certain conditions, as permitted by law.
+- **Opt out of direct marketing**
 
-To exercise these rights, please use our [contact form](https://contact.neteng.pro) or email us at `support (at) neteng.pro`.
+To exercise these rights, please use our [opt-out form](https://optout.neteng.pro) or email us at `support (at) neteng.pro`.
 
 <sub>[Back to top](#top)</sub>
 
-<a name="links"></a>
+<a name="third-party"></a>
 
 ## 8. Third-Party Links
 
-Our website may contain links to third-party sites. We are not responsible for the privacy practices of these external websites.
+Our site may contain links to third-party sites. We are not responsible for their privacy practices.
 
 <sub>[Back to top](#top)</sub>
 
-<a name="disclaim"></a>
+<a name="disclaimers"></a>
 
-## 9. Disclaimers
+## 9. Disclaimers and Limitations
 
-- **No Legal or Professional Liability**: Network Pro Strategies provides information and recommendations based on industry best practices and expertise. However, we do not guarantee the accuracy, effectiveness, or completeness of our public advocacy and awareness efforts and are not liable for any decisions made based on our advice.
-
-  **_This limitation does not apply to our consulting and implementation services._**
-
-- **No Guarantees**: While we strive to provide high-quality security and privacy consulting, we do not guarantee specific outcomes or results from our services unless otherwise specified.
-
-  **_This clause does not apply to specific outcomes or results if they are defined within the scope of work._**
-
-- **Limitation of Liability**: Network Pro Strategies shall not be held liable for any direct, indirect, incidental, or consequential damages arising from the use of our services.
-
-- **Third-Party Services**: We may recommend or integrate third-party vendors for certain services. However, we are not responsible for the actions, policies, or reliability of these third parties.
+Network Pro Strategies offers informational content as a public service. No warranties are made regarding the accuracy or completeness of such content. Consulting services are governed by separate contracts. We disclaim liability for third-party services integrated or referenced.
 
 <sub>[Back to top](#top)</sub>
 
 <a name="changes"></a>
 
-## 10. Changes to This Policy
+## 10. Policy Changes
 
-We may update this Privacy Policy periodically. Changes will be posted on this page with an updated effective date. Updates will comply with applicable changes to the **Arizona Revised Statutes** and **United States Code**.
+We may update this policy periodically. Changes are effective upon posting.
 
 <sub>[Back to top](#top)</sub>
 
@@ -220,13 +181,11 @@ We may update this Privacy Policy periodically. Changes will be posted on this p
 
 ## 11. Contact
 
-For any questions or concerns regarding this Privacy Policy, please contact us at:
+For questions, contact:
 
-Network Pro Strategies  
-📧 `support (at) neteng.pro`  
-(623) 252-4350
-
-<sub>[Back to top](#top)</sub>
+**Network Pro Strategies**  
+📧 Email: `support (at) neteng.pro`  
+📞 Phone: (623) 252-4350
 
 ---
 
