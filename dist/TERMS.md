@@ -73,25 +73,31 @@ Web: <https://bio.neteng.pro>
 
 ---
 
-<a name="#1-introduction"></a>
+<sub>Formats Available: [HTML](terms-of-use.html) | Markdown</sub>
+
+<section id="#1-introduction">
 
 ## 1. Introduction
 
 Welcome! By accessing or using any of the platforms operated by Network Pro Strategies ("Company," "we," "us," or "our"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, please refrain from using our services.
 
-<a name="#2-platforms-covered"></a>
+</section>
+
+<section id="#2-platforms-covered">
 
 ## 2. Platforms Covered
 
-These Terms of Use apply to all platforms associated with the Company, including but not limited to: GitHub, our main website (hosted via GitHub Pages), communications on Discord, Slack, Stack Overflow Teams, Nextcloud, and our social media presence (e.g., Facebook, Instagram, X, and similar platforms).
+These Terms of Use apply to all platforms associated with the Company, including but not limited to: **GitHub, our main website (hosted via GitHub Pages), communications on Discord, Slack, Stack Overflow Teams, Nextcloud, and our social media presence (e.g., Facebook, Instagram, X, and similar platforms)**.
 
 <sub>[Back to top](#top)</sub>
 
-<a name="#3-acceptable-use"></a>
+</section>
+
+<section id="#3-acceptable-use">
 
 ## 3. Acceptable Use
 
-You agree not to use our platforms or services to engage in conduct that is unlawful, abusive, threatening, harassing, defamatory, deceptive, or otherwise objectionable. Prohibited activities include but are not limited to:
+You agree not to use our platforms or services to engage in conduct that is **unlawful, abusive, threatening, harassing, defamatory, deceptive, or otherwise objectionable**. Prohibited activities include but are not limited to:
 
 - Unauthorized access or tampering with systems
 - Impersonation or misrepresentation
@@ -101,7 +107,9 @@ You agree not to use our platforms or services to engage in conduct that is unla
 
 <sub>[Back to top](#top)</sub>
 
-<a name="#4-disclaimer-of-warranties"></a>
+</section>
+
+<section id="#4-disclaimer-of-warranties">
 
 ## 4. Disclaimer of Warranties
 
@@ -109,7 +117,9 @@ Our platforms and services are provided "as is" and "as available," without any 
 
 <sub>[Back to top](#top)</sub>
 
-<a name="#5-assumption-of-risk"></a>
+</section>
+
+<section id="#5-assumption-of-risk">
 
 ## 5. Assumption of Risk
 
@@ -117,7 +127,9 @@ Your use of our platforms is at your own risk. We do not guarantee the security,
 
 <sub>[Back to top](#top)</sub>
 
-<a name="#6-limitation-of-liability"></a>
+</section>
+
+<section id="#6-limitation-of-liability">
 
 ## 6. Limitation of Liability
 
@@ -125,7 +137,9 @@ To the fullest extent permitted by law, the Company, its affiliates, owners, ope
 
 <sub>[Back to top](#top)</sub>
 
-<a name="#7-indemnification"></a>
+</section>
+
+<section id="#7-indemnification">
 
 ## 7. Indemnification
 
@@ -133,15 +147,19 @@ You agree to indemnify, defend, and hold harmless the Company, its affiliates, o
 
 <sub>[Back to top](#top)</sub>
 
-<a name="#8-governing-law-and-jurisdiction"></a>
+</section>
+
+<section id="#8-governing-law-and-jurisdiction">
 
 ## 8. Governing Law and Jurisdiction
 
-Network Pro Strategies is based in Maricopa County, Arizona. Any legal action or dispute arising from these Terms of Use shall be subject to the exclusive jurisdiction of the state and federal courts located in Maricopa County, Arizona. These Terms shall be governed by the Arizona Revised Statutes and applicable provisions of the United States Code.
+Network Pro Strategies is based in Maricopa County, Arizona. Any legal action or dispute arising from these Terms of Use shall be subject to the exclusive jurisdiction of the state and federal courts located in Maricopa County, Arizona. These Terms shall be governed by the **Arizona Revised Statutes (A.R.S.)** and applicable provisions of the **United States Code (U.S.C.)**.
 
 <sub>[Back to top](#top)</sub>
 
-<a name="#9-acceptance-of-terms"></a>
+</section>
+
+<section id="#9-acceptance-of-terms">
 
 ## 9. Acceptance of Terms
 
@@ -149,7 +167,9 @@ By accessing or using our platforms, you acknowledge and agree to these Terms of
 
 <sub>[Back to top](#top)</sub>
 
-<a name="#10-changes-to-this-policy"></a>
+</section>
+
+<section id="#10-changes-to-this-policy">
 
 ## 10. Changes to This Policy
 
@@ -157,9 +177,15 @@ We may update these Terms of Use periodically. Updates will be posted on this pa
 
 <sub>[Back to top](#top)</sub>
 
+</section>
+
 &nbsp;
 
-> **Note:** For more details regarding our privacy practices, refer to our [Privacy Policy](PRIVACY.md). For licensing terms and content usage rights, please visit our [Legal, Copyright, and Licensing](https://netwk.pro/legal.html) page.
+<section id="moredetails">
+
+> **Note:** For more details regarding our privacy practices, refer to our [Privacy Policy](https://github.com/netwk-pro/netwk-pro-legal/blob/master/PRIVACY.md). For licensing terms and content usage rights, please visit our [Legal, Copyright, and Licensing](https://netwk.pro/legal.html) page.
+
+</section>
 
 ---
 
