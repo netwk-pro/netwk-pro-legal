@@ -8,7 +8,7 @@
 
     <loc>https://legal.netwk.pro/index.html</loc>
 
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-15</lastmod>
 
     <changefreq>weekly</changefreq>
 
@@ -20,7 +20,7 @@
 
     <loc>https://legal.netwk.pro/legal.html</loc>
 
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-15</lastmod>
 
     <changefreq>weekly</changefreq>
 
@@ -32,7 +32,7 @@
 
     <loc>https://legal.netwk.pro/terms-of-use.html</loc>
 
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-15</lastmod>
 
     <changefreq>monthly</changefreq>
 
@@ -44,7 +44,7 @@
 
     <loc>https://legal.netwk.pro/PRIVACY.md</loc>
 
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-15</lastmod>
 
     <changefreq>monthly</changefreq>
 
@@ -56,7 +56,7 @@
 
     <loc>https://legal.netwk.pro/README.md</loc>
 
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-15</lastmod>
 
     <changefreq>monthly</changefreq>
 
@@ -68,7 +68,7 @@
 
     <loc>https://legal.netwk.pro/LICENSE.md</loc>
 
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-15</lastmod>
 
     <changefreq>monthly</changefreq>
 
@@ -80,7 +80,7 @@
 
     <loc>https://legal.netwk.pro/TERMS.md</loc>
 
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-15</lastmod>
 
     <changefreq>monthly</changefreq>
 
@@ -92,11 +92,37 @@
 
     <loc>https://legal.netwk.pro/html/terms-conditions.html</loc>
 
-    <lastmod>2025-04-14</lastmod>
+    <lastmod>2025-04-15</lastmod>
 
     <changefreq>monthly</changefreq>
 
     <priority>0.5</priority>
+
+  </url>
+
+  </url>
+
+    <url>
+
+    <loc>https://legal.netwk.pro/html/CC-BY-4.0.html</loc>
+
+    <lastmod>2025-04-15</lastmod>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.3</priority>
+
+  </url>
+
+   <url>
+
+    <loc>https://legal.netwk.pro/html/COPYING.html</loc>
+
+    <lastmod>2025-04-15</lastmod>
+
+    <changefreq>yearly</changefreq>
+
+    <priority>0.3</priority>
 
   </url>
 
