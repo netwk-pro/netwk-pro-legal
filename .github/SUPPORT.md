@@ -56,6 +56,8 @@ For support requests related to Network Pro Strategies (Network Pro&trade;), ple
 
 - [Contact Form](https://contact.neteng.pro)
 
+- [Privacy Rights Request Form](https://privacy.neteng.pro)
+
 - Email us at `support (at) neteng.pro`
 
 ---

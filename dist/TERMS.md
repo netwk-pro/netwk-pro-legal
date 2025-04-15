@@ -73,7 +73,7 @@ Web: <https://bio.neteng.pro>
 
 ---
 
-<sup>**Formats Available:** [HTML](terms-of-use.html) | Markdown</sup>
+**Formats Available:** [HTML](terms-of-use.html) | Markdown
 
 <section id="#1-introduction">
 

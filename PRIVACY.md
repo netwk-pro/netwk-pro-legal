@@ -149,7 +149,7 @@ Under applicable state and federal law, you may have rights to:
 - **Restrict or object to processing** under certain conditions, as permitted by law.
 - **Opt out of direct marketing**
 
-To exercise these rights, please use our [opt-out form](https://optout.neteng.pro) or email us at `support (at) neteng.pro`.
+To exercise these rights, please use our [Privacy Rights Request Form](https://privacy.neteng.pro) or email us at `support (at) neteng.pro`.
 
 <sub>[Back to top](#top)</sub>
 
