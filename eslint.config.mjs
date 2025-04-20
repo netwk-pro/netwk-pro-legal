@@ -26,8 +26,11 @@ const IGNORED_FILES = [
 
 const GLOBALS = {
   ...globals.browser,
-  ...globals.node, // Include Node.js globals
+  ...globals.node,
   ...globals.mocha,
+  self: "readonly",
+  location: "readonly",
+  indexedDB: "readonly",
 };
 
 const ESLINT_RULES = {
@@ -35,15 +38,15 @@ const ESLINT_RULES = {
   "mocha/no-exclusive-tests": "error",
   "mocha/no-skipped-tests": "warn",
   "mocha/no-hooks-for-single-case": "warn",
-  "indent": "off", // Turn off the 'indent' rule
-  "quotes": "off", // Turn off the 'quotes' rule
-  "semi": "off", // Turn off the 'semi' rule
+  "indent": "off", // Turn off the 'indent' rule, managed by prettier
+  "quotes": "off", // Turn off the 'quotes' rule, managed by prettier
+  "semi": "off", // Turn off the 'semi' rule, managed by prettier
 };
 
 export default [
   js.configs.recommended,
   {
-    files: ["**/*.js", "**/*.mjs", "**/*.cjs"],
+    files: ["**/*.mjs", "**/*.js", "**/*.cjs", "**/test/**/*.mjs"],
     ignores: IGNORED_FILES,
     plugins: { mocha },
     languageOptions: {

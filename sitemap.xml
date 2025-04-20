@@ -8,7 +8,7 @@
 
     <loc>https://legal.netwk.pro/index.html</loc>
 
-    <lastmod>2025-04-15</lastmod>
+    <lastmod>2025-04-20</lastmod>
 
     <changefreq>weekly</changefreq>
 
@@ -18,33 +18,9 @@
 
   <url>
 
-    <loc>https://legal.netwk.pro/legal.html</loc>
-
-    <lastmod>2025-04-15</lastmod>
-
-    <changefreq>weekly</changefreq>
-
-    <priority>0.7</priority>
-
-  </url>
-
-  <url>
-
-    <loc>https://legal.netwk.pro/terms-of-use.html</loc>
-
-    <lastmod>2025-04-15</lastmod>
-
-    <changefreq>monthly</changefreq>
-
-    <priority>0.7</priority>
-
-  </url>
-
-  <url>
-
     <loc>https://legal.netwk.pro/PRIVACY.md</loc>
 
-    <lastmod>2025-04-15</lastmod>
+    <lastmod>2025-04-20</lastmod>
 
     <changefreq>monthly</changefreq>
 
@@ -56,7 +32,7 @@
 
     <loc>https://legal.netwk.pro/README.md</loc>
 
-    <lastmod>2025-04-15</lastmod>
+    <lastmod>2025-04-20</lastmod>
 
     <changefreq>monthly</changefreq>
 
@@ -68,11 +44,11 @@
 
     <loc>https://legal.netwk.pro/LICENSE.md</loc>
 
-    <lastmod>2025-04-15</lastmod>
+    <lastmod>2025-04-20</lastmod>
 
     <changefreq>monthly</changefreq>
 
-    <priority>0.5</priority>
+    <priority>0.6</priority>
 
   </url>
 
@@ -80,25 +56,11 @@
 
     <loc>https://legal.netwk.pro/TERMS.md</loc>
 
-    <lastmod>2025-04-15</lastmod>
+    <lastmod>2025-04-20</lastmod>
 
     <changefreq>monthly</changefreq>
 
-    <priority>0.5</priority>
-
-  </url>
-
-  <url>
-
-    <loc>https://legal.netwk.pro/html/terms-conditions.html</loc>
-
-    <lastmod>2025-04-15</lastmod>
-
-    <changefreq>monthly</changefreq>
-
-    <priority>0.5</priority>
-
-  </url>
+    <priority>0.6</priority>
 
   </url>
 
@@ -110,7 +72,7 @@
 
     <changefreq>yearly</changefreq>
 
-    <priority>0.3</priority>
+    <priority>0.4</priority>
 
   </url>
 
@@ -122,7 +84,7 @@
 
     <changefreq>yearly</changefreq>
 
-    <priority>0.3</priority>
+    <priority>0.4</priority>
 
   </url>
 
@@ -130,7 +92,7 @@
 
     <loc>https://legal.netwk.pro/404.html</loc>
 
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2025-04-20</lastmod>
 
     <changefreq>yearly</changefreq>
 

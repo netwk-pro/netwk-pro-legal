@@ -49,7 +49,7 @@ Web: <https://bio.neteng.pro>
 # Privacy Policy
 
 **Network Pro Strategies**  
-**Effective Date:** April 14, 2025
+**Effective Date:** April 18, 2025
 
 &nbsp;
 
@@ -72,6 +72,8 @@ Web: <https://bio.neteng.pro>
 11. [Contact](#contact)
 
 ---
+
+**Formats Available:** [HTML](https://netwk.pro/privacy.html) | Markdown
 
 <a name="intro"></a>
 
@@ -205,6 +207,6 @@ Copyright &copy; 2025
 
 Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are [trademarks](https://netwk.pro/legal.html#trademark) of Network Pro Strategies.
 
-Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Licensed under **[CC BY 4.0](https://netwk.pro/legal.html#cc-by)** and the **[GNU GPL](https://netwk.pro/legal.html#gnu-gpl)**, as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 </div>

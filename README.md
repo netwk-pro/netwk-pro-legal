@@ -68,7 +68,7 @@ Repository of legal documents for Network Pro Strategies (Network Pro&trade;).
 <span style="font-size: 12px; font-weight: bold; text-align: center;">
 
 [Home](https://netwk.pro) &nbsp; | &nbsp; [Terms of Use](https://netwk.pro/terms-of-use.html)  
-[Privacy Policy](https://github.com/netwk-pro/netwk-pro-legal/blob/master/PRIVACY.md) &nbsp; | &nbsp; [Legal](https://netwk.pro/legal.html)
+[Privacy Policy](https://netwk.pro/privacy.html) &nbsp; | &nbsp; [Legal](https://netwk.pro/legal.html)
 
 </span>
 
@@ -81,6 +81,6 @@ Copyright &copy; 2025
 
 Network Pro&trade;, the shield logo, and the "Locking Down Networks&trade;" slogan are [trademarks](https://netwk.pro/legal.html#trademark) of Network Pro Strategies.
 
-Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the [Free Software Foundation](https://fsf.org), either version 3 of the License, or (at your option) any later version.
+Licensed under **[CC BY 4.0](https://netwk.pro/legal.html#cc-by)** and the **[GNU GPL](hhttps://netwk.pro/legal.html#gnu-gpl)**, as published by the [Free Software Foundation](https://fsf.org), either version 3 of the License, or (at your option) any later version.
 
 </span>

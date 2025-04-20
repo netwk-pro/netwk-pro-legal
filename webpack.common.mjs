@@ -5,27 +5,30 @@ SPDX-License-Identifier: CC-BY-4.0 OR GPL-3.0-or-later
 This file is part of Network Pro.
 ========================================================================= */
 
-import autoprefixer from "autoprefixer";
-import path from "path";
+import path, { dirname } from "path";
+import { fileURLToPath } from "url";
 import webpack from "webpack";
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
 export default {
-  mode: "none", // Explicitly set the mode (overridden by merge)
+  mode: "none", // Shared base configuration without specifying dev/prod mode
   entry: {
-    app: "./js/app.js",
+    app: "./js/app.mjs",
   },
   output: {
-    path: path.resolve(process.cwd(), "dist"),
-    filename: "js/[name].[contenthash].js",
-    chunkFilename: "js/[name].[contenthash].js",
+    path: path.resolve(__dirname, "dist"),
+    filename: "js/[name].[contenthash].mjs",
+    chunkFilename: "js/[name].[contenthash].mjs",
     chunkFormat: "array-push",
-    clean: true,
+    clean: true, // Cleans the 'dist' folder before each build
   },
-  target: "web",
+  target: "web", // Targeting browser environments
   module: {
     rules: [
       {
-        test: /\.jsx?$/,
+        test: /\.(js|mjs)$/, // Matches both .js and .mjs files
         exclude: /node_modules/,
         use: [
           {
@@ -35,41 +38,30 @@ export default {
               cacheDirectory: true, // Enable caching for faster builds
             },
           },
-          "astroturf/loader",
+          "astroturf/loader", // CSS-in-JS loader
         ],
       },
       {
         test: /\.css$/,
         use: [
-          "style-loader",
+          "style-loader", // Injects CSS into the DOM
           {
             loader: "css-loader",
             options: { modules: { auto: true } }, // Auto-detect CSS Modules
           },
-          {
-            loader: "postcss-loader",
-            options: {
-              postcssOptions: {
-                plugins: [
-                  autoprefixer({
-                    add: true,
-                    remove: false,
-                  }),
-                ],
-              },
-            },
-          },
+          "postcss-loader", // PostCSS processing
         ],
       },
     ],
   },
   optimization: {
-    usedExports: true,
+    usedExports: true, // Enable tree-shaking
     sideEffects: false,
+    concatenateModules: true, // Module concatenation
     splitChunks: {
       chunks: "all",
       minSize: 20000,
-      maxSize: 100000, // Increased max chunk size
+      maxSize: 100000, // Increased max chunk size for better performance
       minChunks: 1,
       cacheGroups: {
         defaultVendors: {
@@ -85,7 +77,7 @@ export default {
         },
       },
     },
-    runtimeChunk: "single",
+    runtimeChunk: "single", // Extract runtime code for better caching
   },
   plugins: [
     new webpack.ProvidePlugin({
@@ -95,6 +87,6 @@ export default {
     }),
   ],
   resolve: {
-    extensions: [".js", ".json"],
+    extensions: [".mjs", ".js", ".cjs", ".json"], // Prioritize modern JavaScript extensions
   },
 };
