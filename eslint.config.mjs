@@ -21,7 +21,6 @@ const IGNORED_FILES = [
   "**/babel.config.json",
   "**/package.json",
   "**/package-lock.json",
-  "**/stylelint.config.js",
 ];
 
 const GLOBALS = {
