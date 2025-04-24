@@ -1,6 +1,6 @@
 {
   "name": "@networkpro/legal",
-  "version": "0.2.10",
+  "version": "0.3.0",
   "private": false,
   "description": "Legal Document Portal — Network Pro Strategies",
   "keywords": [
@@ -34,9 +34,9 @@
   "scripts": {
     "test": "mocha test/**/*.mjs",
     "test:coverage": "c8 mocha test/**/*.mjs",
-    "lint": "eslint .",
+    "lint": "eslint --ignore-pattern .cache/** --ignore-pattern node_modules/** --ignore-pattern .webpack_cache/** --ignore-pattern dist/** --ignore-pattern site/** --config eslint.config.mjs .",
     "format": "prettier --check .",
-    "lint:format": "eslint . && prettier --check .",
+    "lint:format": "npm run lint && npm run format",
     "fix": "eslint --fix . && prettier --write .",
     "clean": "rm -rf dist/* && npm update",
     "ci": "rm -rf dist/* node_modules package-lock.json && npm install",

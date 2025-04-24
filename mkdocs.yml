@@ -1,0 +1,85 @@
+site_name: Network Pro Strategies
+site_url: https://legal.netwk.pro/docs/
+repo_url: https://github.com/netwk-pro/netwk-pro-legal
+repo_name: netwk-pro-legal
+docs_dir: docs_raw
+site_dir: dist/docs
+
+theme:
+  name: material
+  language: en
+  font: false
+  logo: img/logo.png
+  favicon: img/favicon.png
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: amber
+      accent: yellow
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: amber
+      accent: yellow
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: amber
+      accent: yellow
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+
+extra:
+  base_url: /docs/
+  consent:
+    title: Cookie Consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: false
+      github:
+        name: GitHub
+        checked: false
+    actions:
+      - reject
+      - accept
+      - manage
+
+copyright: >
+  Copyright &copy; 2025 Network Pro Strategies (Network Pro&trade;) –
+  <a href="#__consent">Change cookie settings</a>
+
+plugins:
+  - privacy
+  - search
+  - tags
+
+nav:
+  - Home: README.md
+  - privacy.md
+  - terms-use.md
+  - Legal, Copyright, and Licensing: legal.md
+  - Consulting:
+      - terms-cond.md
+  - Contributing:
+      - conduct.md

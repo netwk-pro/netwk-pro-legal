@@ -9,8 +9,6 @@
 
 ### Custom Ignores ###
 .orig/
-python-venv/
-docs/
 
 
 ### Node ###

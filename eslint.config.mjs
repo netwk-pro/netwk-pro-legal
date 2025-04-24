@@ -11,16 +11,23 @@ import mocha from "eslint-plugin-mocha";
 import globals from "globals";
 
 const IGNORED_FILES = [
-  ".*", // Ignores all dotfiles (.prettierrc, .babelrc, etc.)
-  "**/*.xml", // Exclude non-JS files like bimi-svg-tiny-ps.xml
+  ".*",
+  "**/*.xml",
+  ".cache/**",
+  "**/.cache/**",
+  ".webpack_cache/**",
+  "**/.webpack_cache/**",
   "**/.vscode/**",
+  "dist/**",
   "**/dist/**",
+  "node_modules/**",
   "**/node_modules/**",
-  "**/assets/license/**",
+  "coverage/**",
   "**/coverage/**",
-  "**/babel.config.json",
-  "**/package.json",
-  "**/package-lock.json",
+  "site/**",
+  "**/site/**",
+  "package.json",
+  "package-lock.json"
 ];
 
 const GLOBALS = {
