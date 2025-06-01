@@ -155,6 +155,7 @@ export default merge(common, {
         { from: "favicon-192.png", to: "favicon-192.png" },
         { from: "favicon-512.png", to: "favicon-512.png" },
         { from: "favicon-splash.png", to: "favicon-splash.png" },
+        { from: "bad-script.js", to: "bad-script.js" },
         { from: "LICENSE.md", to: "LICENSE.md" },
         { from: "TERMS-USE.md", to: "TERMS-USE.md" },
         { from: "TERMS-COND.md", to: "TERMS-COND.md" },
