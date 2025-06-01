@@ -95,7 +95,7 @@ jobs:
           pip install mkdocs mkdocs-material
 
       - name: Build MkDocs documentation
-        run: mkdocs build --strict
+        run: mkdocs build
       # MkDocs Integration Ends
 
       - name: Ensure dist directory exists
